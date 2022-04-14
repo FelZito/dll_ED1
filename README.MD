@@ -1,12 +1,7 @@
-# Trabalho de Implementação 02 - TED Genérico
-__Autores: Herson Felipe Martins Sousa e Adriano Ferreira Cardoso__
+# Lista duplamente encadadeada em C
+## Projeto desenvolvido para implementação de TAD (Tipo Abstrado de Dados) na disciplina de Estrutura de Dados 1 com professor Anselmo C. Paiva.
 
-Como executar o programa? 
-Para melhor organizar a compilação do programa, utilizamos o Makefile.
-
-# Como executar: 
-Abra a pasta ED_collection em um terminal no seu computador e execute o comando make. Feito isso, irá ser gerado uma pasta build, contendo o executável da main. 
-Execute com: ./build/debug/main
+# Informações relevantes: 
 
 - Sistema Operacional utilizado no desenvolvimento: __GNU Linux__
 - Ambiente de desenvolvimento: __VS Code__
