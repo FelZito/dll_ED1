@@ -1,4 +1,4 @@
-# Lista duplamente encadadeada em C
+# Lista duplamente encadeada em C
 ## Projeto desenvolvido para implementação de TAD (Tipo Abstrado de Dados) na disciplina de Estrutura de Dados 1 com professor Anselmo C. Paiva.
 
 # Informações relevantes: 
