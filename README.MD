@@ -14,6 +14,8 @@ Execute com: ./build/debug/main
 -- Arquivos de cabeçalho: ./header
 -- Arquivos executáveis: ./src
 
-Amostra: [https://i.imgur.com/FmU4jjH.png]
+## Compilação com make: 
+![image](https://i.imgur.com/FmU4jjH.png)
 
-Amostra do menu operativo: [https://i.imgur.com/U5ROjXA.png]
+## Amostra do menu operativo: 
+![image](https://i.imgur.com/U5ROjXA.png)
